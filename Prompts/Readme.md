@@ -1,0 +1,1 @@
+Sample prompts I have tested and are interesting to explore.
